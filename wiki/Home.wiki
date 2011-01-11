@@ -1,5 +1,3 @@
-# Home Page
-
 = Introduction =
 Welcome to the CephWin project! The home of the CEPH client. Windows has an integrated NFS client but it needs to support more network file systems.
 
