@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+Welcome to the CephWin project! The home of the CEPH client. Windows has an integrated NFS client but it needs to support more network file systems.
+
+See the CEPH web site at [http://ceph.newdream.net]
+
+= Details =
+
+This client only supports the following Operating Systems:
+  * Windows Server 2008/Windows Storage Server 2008
+  * Windows Server 2008 R2/Windows Storage Server 2008 R2
