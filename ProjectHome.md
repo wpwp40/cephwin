@@ -1,0 +1,1 @@
+This project is to create a CEPH distributed networking storage and file system client for the Windows 2008/2008 [R2](https://code.google.com/p/cephwin/source/detail?r=2) Operating Systems.
